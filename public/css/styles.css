@@ -1,0 +1,35 @@
+th{
+    text-align: center;
+}
+
+/*************** add Transaction Form ************/
+
+.add-transaction-btn{
+    margin-left: 10px;
+}
+
+#error-msg{
+    background-color: rgba(224,0,0,0.4);
+    color: azure;
+}
+
+#success-msg{
+    background-color: rgba(0, 128, 43,0.4);
+    color: azure;
+}
+
+/**************** Auth form Styling *************/
+
+#submit-btn{
+    margin-top: 10px;
+}
+
+.input-group{
+    margin-top: 10px;
+}
+
+.input-group-addon{
+    min-width: 150px;
+}
+
+/***********************************************/
